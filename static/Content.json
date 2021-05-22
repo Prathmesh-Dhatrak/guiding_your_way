@@ -1,0 +1,1421 @@
+{
+    "Diploma": {
+        "Computer Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Peripheral and Hardware Maintenance": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Network and Information Security": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Warehousing with Mining Techniques": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            }
+        },
+        "Information Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Peripheral and Hardware Maintenance": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Network and Information Security": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Warehousing with Mining Techniques": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            }
+        },
+        "Electrical Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Peripheral and Hardware Maintenance": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Network and Information Security": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Warehousing with Mining Techniques": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            }
+        },
+        "Mechanical Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Peripheral and Hardware Maintenance": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Network and Information Security": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Data Warehousing with Mining Techniques": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            }
+        }
+    }
+}
