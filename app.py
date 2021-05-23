@@ -5,7 +5,20 @@ app = Flask(__name__)
 headings = []
 retData = []
 @app.route('/',methods=['GET','POST'])
-def hello_world():
+def homeLode():
+    if request.method == 'POST':
+        Msgname = request.form.get("Msgname")
+        Msgsurname = request.form.get("Msgsurname")
+        Msgemail = request.form.get("Msgemail")
+        Msgmessage = request.form.get("Msgmessage")
+        print(Msgname)
+        print(Msgsurname)
+        print(Msgemail)
+        print(Msgmessage)
+    return render_template('home.html', title='Home page')
+
+@app.route('/collegeFinder',methods=['GET','POST'])
+def collegeFinder():
     if request.method == "POST":
         subGroup = request.form.get("subDropDown")
         cat = request.form.get("catDropDown")
@@ -18,9 +31,51 @@ def hello_world():
         print(toPer)
         headings = ['College Name','Sub Group','Category',str(criteria)]
         retData = getRes(subGroup,cat,fromPer,toPer,criteria)
-        return render_template('index.html',heading = headings,useData = retData)
-    return render_template('index.html')
-    
+        return render_template('service1-collegefind.html',heading = headings,useData = retData)
+    return render_template('service1-collegefind.html', title='College Finding page')
+
+@app.route('/contentFinder',methods=['GET','POST'])
+def contentFinder():
+    if request.method == "POST":
+        dept = request.form.get("deptDropDown")
+        sem = request.form.get("semDropDown")
+        course = request.form.get("courseDropDown")
+        print(dept)
+        print(sem)
+        headings = ['Subject','Books','Learning Resources Links']
+        retData = getContent(course,dept,sem)
+        return render_template('service2-contentfind.html',heading = headings,useData = retData)
+    return render_template('service2-contentfind.html',title='Content Finding page')
+
+def getContent(course,dept,sem):
+    import json as j
+    from os import link
+    f = open('static/Content.json',"r")
+    x = f.read()
+    data = j.loads(x)
+    f.close()
+    retData = []
+    try:
+        for i in data[course][dept][sem]:
+            bookList = data[course][dept][sem][i]["Books"]
+            links = data[course][dept][sem][i]["YouTube"]
+            sub = i
+            for j in range(max(len(bookList),len(links))):
+                try:
+                    b = bookList[j]
+                except IndexError:
+                    b = None
+                try:
+                    l = links[j]
+                except IndexError:
+                    l = None
+                retData.append([sub,b,l])
+                sub = None
+    except KeyError:
+        print("KeyError")
+
+    return retData
+
 def getRes(subGroup,cast,fromPerStr,toPerStr,criteria):
     f = open('static/data.json','r')
     x = f.read()
