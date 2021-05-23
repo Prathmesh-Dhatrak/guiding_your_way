@@ -5,6 +5,19 @@ app = Flask(__name__)
 headings = []
 retData = []
 @app.route('/',methods=['GET','POST'])
+def homeLode():
+    if request.method == 'POST':
+        Msgname = request.form.get("Msgname")
+        Msgsurname = request.form.get("Msgsurname")
+        Msgemail = request.form.get("Msgemail")
+        Msgmessage = request.form.get("Msgmessage")
+        print(Msgname)
+        print(Msgsurname)
+        print(Msgemail)
+        print(Msgmessage)
+    return render_template('home.html', title='Home page')
+
+@app.route('/collegeFinder',methods=['GET','POST'])
 def collegeFinder():
     if request.method == "POST":
         subGroup = request.form.get("subDropDown")
@@ -18,8 +31,8 @@ def collegeFinder():
         print(toPer)
         headings = ['College Name','Sub Group','Category',str(criteria)]
         retData = getRes(subGroup,cat,fromPer,toPer,criteria)
-        return render_template('index.html',heading = headings,useData = retData)
-    return render_template('index.html')
+        return render_template('service1-collegefind.html',heading = headings,useData = retData)
+    return render_template('service1-collegefind.html', title='College Finding page')
 
 @app.route('/contentFinder',methods=['GET','POST'])
 def contentFinder():
@@ -31,8 +44,8 @@ def contentFinder():
         print(sem)
         headings = ['Subject','Books','Learning Resources Links']
         retData = getContent(course,dept,sem)
-        return render_template('contentFinder.html',heading = headings,useData = retData)
-    return render_template('contentFinder.html')
+        return render_template('service2-contentfind.html',heading = headings,useData = retData)
+    return render_template('service2-contentfind.html',title='Content Finding page')
 
 def getContent(course,dept,sem):
     import json as j
@@ -42,21 +55,25 @@ def getContent(course,dept,sem):
     data = j.loads(x)
     f.close()
     retData = []
-    for i in data[course][dept][sem]:
-        bookList = data[course][dept][sem][i]["Books"]
-        links = data[course][dept][sem][i]["YouTube"]
-        sub = i
-        for j in range(max(len(bookList),len(links))):
-            try:
-                b = bookList[j]
-            except IndexError:
-                b = None
-            try:
-                l = links[j]
-            except IndexError:
-                l = None
-            retData.append([sub,b,l])
-            sub = None
+    try:
+        for i in data[course][dept][sem]:
+            bookList = data[course][dept][sem][i]["Books"]
+            links = data[course][dept][sem][i]["YouTube"]
+            sub = i
+            for j in range(max(len(bookList),len(links))):
+                try:
+                    b = bookList[j]
+                except IndexError:
+                    b = None
+                try:
+                    l = links[j]
+                except IndexError:
+                    l = None
+                retData.append([sub,b,l])
+                sub = None
+    except KeyError:
+        print("KeyError")
+
     return retData
 
 def getRes(subGroup,cast,fromPerStr,toPerStr,criteria):
